@@ -7,9 +7,8 @@
 "TzN Mod" is a competitive game mod designed to enhance gameplay with new features, balanced mechanics, and an improved experience for all players.
 
 ## **📥 Installation**
-1. **Download the latest release** from [GitHub Releases](https://github.com/YOUR_USERNAME/YOUR_REPO/releases).
-2. Remove Files from "Venge Client" Folder in "Documents, then replace them with the files in "TzN Mod"
-4. Launch the game and enjoy!
+1. Remove Files from "Venge Client" Folder in "Documents, then replace them with the files in "TzN Mod"
+2. Launch the game and enjoy!
 
 ## **📸 Screenshots**
 ![Screenshot 1](https://cdn.discordapp.com/attachments/1285347840482217995/1356048134840647831/image.png?ex=67eb25bd&is=67e9d43d&hm=102c991d2807ddedbb16635fdf3a111b15a2099e166ecbb828d5e12411c15cda&)
