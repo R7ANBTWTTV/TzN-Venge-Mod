@@ -1,7 +1,7 @@
 # **[TzN Mod]**
 
 ![GitHub all releases](https://img.shields.io/github/downloads/R7ANBTWTTV/TzN-Venge-Mod/total)
-[![Download Latest](https://img.shields.io/github/v/release/R7ANBTWTTV/TzN-Venge-Mod?label=Download%20Latest)](https://github.com/R7ANBTWTTV/TzN-Venge-Mod/releases/tag/VengeTzNMod0.5)
+[![Download Latest](https://img.shields.io/github/v/release/R7ANBTWTTV/TzN-Venge-Mod?label=Download%20Latest)](https://github.com/R7ANBTWTTV/TzN-Venge-Mod/releases/tag/VengeTzNMod0.6)
 
 ## **📌 About the Mod**
 "TzN Mod" is a competitive game mod designed to enhance gameplay with new features, balanced mechanics, and an improved experience for all players.
