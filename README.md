@@ -1,4 +1,4 @@
-# **[TzN Mod]**
+# **TzN Mod**
 
 ![GitHub all releases](https://img.shields.io/github/downloads/R7ANBTWTTV/TzN-Venge-Mod/total)
 [![Download Latest](https://img.shields.io/github/v/release/R7ANBTWTTV/TzN-Venge-Mod?label=Download%20Latest)](https://github.com/R7ANBTWTTV/TzN-Venge-Mod/releases/tag/VengeTzNMod0.6)
